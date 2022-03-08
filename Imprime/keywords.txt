@@ -1,0 +1,9 @@
+
+debug KEYWORD2
+pulaLinha KEYWORD2
+separador KEYWORD2
+seta_nivel KEYWORD2
+print KEYWORD2
+piscaLed KEYWORD2
+temposLed KEYWORD2
+ledDebug KEYWORD2
